@@ -1,0 +1,17 @@
+   body {
+    background-color: #ffa; 
+    
+}
+button{
+    font-size: 30px; 
+    width: 80%;
+    height: 70px;
+    color: #fff; 
+    background-color:  Dodgerblue ;
+    margin-left: 40px;
+    margin-top: 150px;
+}
+button:hover{
+   background-color:  #0829ff;
+    
+}
